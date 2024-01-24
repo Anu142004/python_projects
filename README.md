@@ -1,2 +1,2 @@
-# python_projects
-simple python projects as a begineer
+python data visualization
+simple python(in jupyter notebook) projects as a begineer
